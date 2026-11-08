@@ -1,0 +1,747 @@
+﻿animation_id,label,index,asset_path,ticks,phase
+base_idle,02 待機,0,sprites/00_基本原画/2.webp,6,reference
+base_idle,02 待機,1,sprites/00_基本原画/2-1.webp,6,reference
+base_idle,02 待機,2,sprites/00_基本原画/2-2.webp,6,reference
+base_idle,02 待機,3,sprites/00_基本原画/2-1.webp,6,reference
+base_forward_walk,30〜33 前歩き（原画4枚）,0,sprites/00_基本原画/30.webp,6,reference
+base_forward_walk,30〜33 前歩き（原画4枚）,1,sprites/00_基本原画/31.webp,6,reference
+base_forward_walk,30〜33 前歩き（原画4枚）,2,sprites/00_基本原画/32.webp,6,reference
+base_forward_walk,30〜33 前歩き（原画4枚）,3,sprites/00_基本原画/33.webp,6,reference
+base_backward_walk,34〜37 後ろ歩き（原画4枚）,0,sprites/00_基本原画/34.webp,6,reference
+base_backward_walk,34〜37 後ろ歩き（原画4枚）,1,sprites/00_基本原画/35.webp,6,reference
+base_backward_walk,34〜37 後ろ歩き（原画4枚）,2,sprites/00_基本原画/36.webp,6,reference
+base_backward_walk,34〜37 後ろ歩き（原画4枚）,3,sprites/00_基本原画/37.webp,6,reference
+base_jump,38〜41 ジャンプ・着地（原画4枚）,0,sprites/00_基本原画/38.webp,4,reference
+base_jump,38〜41 ジャンプ・着地（原画4枚）,1,sprites/00_基本原画/39.webp,4,reference
+base_jump,38〜41 ジャンプ・着地（原画4枚）,2,sprites/00_基本原画/40.webp,4,reference
+base_jump,38〜41 ジャンプ・着地（原画4枚）,3,sprites/00_基本原画/41.webp,4,reference
+base_guard,立ちガード,0,sprites/00_基本原画/2.webp,4,reference
+base_guard,立ちガード,1,sprites/00_基本原画/3.webp,4,reference
+base_guard,立ちガード,2,sprites/00_基本原画/3.webp,4,reference
+base_guard,立ちガード,3,sprites/00_基本原画/2.webp,4,reference
+base_crouch,しゃがみ・ガード,0,sprites/00_基本原画/7.webp,4,reference
+base_crouch,しゃがみ・ガード,1,sprites/00_基本原画/8.webp,4,reference
+base_crouch,しゃがみ・ガード,2,sprites/00_基本原画/7.webp,4,reference
+base_jump_punch,28 ジャンプパンチ,0,sprites/00_基本原画/28-1.webp,4,reference
+base_jump_punch,28 ジャンプパンチ,1,sprites/00_基本原画/28-2.webp,4,reference
+base_jump_punch,28 ジャンプパンチ,2,sprites/00_基本原画/28-3.webp,4,reference
+base_jump_punch,28 ジャンプパンチ,3,sprites/00_基本原画/28.webp,4,reference
+base_jump_punch,28 ジャンプパンチ,4,sprites/00_基本原画/28-4.webp,4,reference
+base_jump_punch,28 ジャンプパンチ,5,sprites/00_基本原画/28-5.webp,4,reference
+base_jump_kick,29 ジャンプキック,0,sprites/00_基本原画/29-1.webp,4,reference
+base_jump_kick,29 ジャンプキック,1,sprites/00_基本原画/29-2.webp,4,reference
+base_jump_kick,29 ジャンプキック,2,sprites/00_基本原画/29-3.webp,4,reference
+base_jump_kick,29 ジャンプキック,3,sprites/00_基本原画/29.webp,4,reference
+base_jump_kick,29 ジャンプキック,4,sprites/00_基本原画/29-4.webp,4,reference
+base_jump_kick,29 ジャンプキック,5,sprites/00_基本原画/29-5.webp,4,reference
+v4_11_to_25,11 → 25 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v4_11_to_25,11 → 25 地上必殺技,1,sprites/00_基本原画/11.webp,2,normal_active
+v4_11_to_25,11 → 25 地上必殺技,2,sprites/01_通常技キャンセル接続/11C_02.webp,1,bridge
+v4_11_to_25,11 → 25 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/CGS_02.webp,1,hub
+v4_11_to_25,11 → 25 地上必殺技,4,sprites/03_25_突進/CGS25_01.webp,1,special_start
+v4_11_to_25,11 → 25 地上必殺技,5,sprites/03_25_突進/CGS25_02.webp,1,special_start
+v4_11_to_25,11 → 25 地上必殺技,6,sprites/00_基本原画/25.webp,2,special_active
+v4_11_to_25,11 → 25 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v4_14_to_20,14 → 20 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v4_14_to_20,14 → 20 地上必殺技,1,sprites/00_基本原画/14.webp,2,normal_active
+v4_14_to_20,14 → 20 地上必殺技,2,sprites/01_通常技キャンセル接続/14C_02.webp,1,bridge
+v4_14_to_20,14 → 20 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/CGS_02.webp,1,hub
+v4_14_to_20,14 → 20 地上必殺技,4,sprites/04_20-23_ジヘルトリガー/CGS20_01.webp,1,special_start
+v4_14_to_20,14 → 20 地上必殺技,5,sprites/04_20-23_ジヘルトリガー/CGS20_02.webp,1,special_start
+v4_14_to_20,14 → 20 地上必殺技,6,sprites/00_基本原画/20.webp,2,special_active
+v4_14_to_20,14 → 20 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v4_18_to_24,18 → 24 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v4_18_to_24,18 → 24 地上必殺技,1,sprites/00_基本原画/18.webp,2,normal_active
+v4_18_to_24,18 → 24 地上必殺技,2,sprites/01_通常技キャンセル接続/18C_03.webp,1,bridge
+v4_18_to_24,18 → 24 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/CGS_02.webp,1,hub
+v4_18_to_24,18 → 24 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/CGS24_01.webp,1,special_start
+v4_18_to_24,18 → 24 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/CGS24_02.webp,1,special_start
+v4_18_to_24,18 → 24 地上必殺技,6,sprites/00_基本原画/24.webp,2,special_active
+v4_18_to_24,18 → 24 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_51_single,51 前＋K：単発中段,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_51_single,51 前＋K：単発中段,1,sprites/02_通常技_連携中段_共通キャンセル/51_start_01.webp,3,startup
+v5_51_single,51 前＋K：単発中段,2,sprites/02_通常技_連携中段_共通キャンセル/51_start_02.webp,3,startup
+v5_51_single,51 前＋K：単発中段,3,sprites/02_通常技_連携中段_共通キャンセル/51_start_03.webp,2,startup
+v5_51_single,51 前＋K：単発中段,4,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_51_single,51 前＋K：単発中段,5,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_51_single,51 前＋K：単発中段,6,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_51_single,51 前＋K：単発中段,7,sprites/02_通常技_連携中段_共通キャンセル/heel_06.webp,3,recovery
+v5_51_single,51 前＋K：単発中段,8,sprites/02_通常技_連携中段_共通キャンセル/heel_07.webp,3,recovery
+v5_51_single,51 前＋K：単発中段,9,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,idle
+v5_15_single,15 近距離K二段目：連携中段,0,sprites/02_通常技_連携中段_共通キャンセル/14_kick_03.webp,2,normal_active
+v5_15_single,15 近距離K二段目：連携中段,1,sprites/02_通常技_連携中段_共通キャンセル/14_kick_04.webp,1,branch
+v5_15_single,15 近距離K二段目：連携中段,2,sprites/02_通常技_連携中段_共通キャンセル/heel_02.webp,2,startup
+v5_15_single,15 近距離K二段目：連携中段,3,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_15_single,15 近距離K二段目：連携中段,4,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_15_single,15 近距離K二段目：連携中段,5,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_15_single,15 近距離K二段目：連携中段,6,sprites/02_通常技_連携中段_共通キャンセル/heel_06.webp,3,recovery
+v5_15_single,15 近距離K二段目：連携中段,7,sprites/02_通常技_連携中段_共通キャンセル/heel_07.webp,3,recovery
+v5_15_single,15 近距離K二段目：連携中段,8,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,idle
+v5_51_to_25,51 中段 → 25 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_51_to_25,51 中段 → 25 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/51_start_01.webp,3,startup
+v5_51_to_25,51 中段 → 25 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/51_start_02.webp,3,startup
+v5_51_to_25,51 中段 → 25 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/51_start_03.webp,2,startup
+v5_51_to_25,51 中段 → 25 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_51_to_25,51 中段 → 25 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_51_to_25,51 中段 → 25 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_51_to_25,51 中段 → 25 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/25_dash_01.webp,2,startup
+v5_51_to_25,51 中段 → 25 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/25_dash_02.webp,2,startup
+v5_51_to_25,51 中段 → 25 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/25_dash_03.webp,2,active
+v5_51_to_25,51 中段 → 25 地上必殺技,10,sprites/02_通常技_連携中段_共通キャンセル/25_dash_04.webp,2,active
+v5_51_to_25,51 中段 → 25 地上必殺技,11,sprites/02_通常技_連携中段_共通キャンセル/25_dash_05.webp,2,active
+v5_51_to_25,51 中段 → 25 地上必殺技,12,sprites/02_通常技_連携中段_共通キャンセル/25_dash_06.webp,3,recovery
+v5_51_to_25,51 中段 → 25 地上必殺技,13,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_51_to_20,51 中段 → 20 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_51_to_20,51 中段 → 20 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/51_start_01.webp,3,startup
+v5_51_to_20,51 中段 → 20 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/51_start_02.webp,3,startup
+v5_51_to_20,51 中段 → 20 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/51_start_03.webp,2,startup
+v5_51_to_20,51 中段 → 20 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_51_to_20,51 中段 → 20 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_51_to_20,51 中段 → 20 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_51_to_20,51 中段 → 20 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/20_moon_01.webp,2,startup
+v5_51_to_20,51 中段 → 20 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/20_moon_02.webp,2,startup
+v5_51_to_20,51 中段 → 20 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/20_moon_03.webp,3,active
+v5_51_to_20,51 中段 → 20 地上必殺技,10,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_51_to_24,51 中段 → 24 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_51_to_24,51 中段 → 24 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/51_start_01.webp,3,startup
+v5_51_to_24,51 中段 → 24 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/51_start_02.webp,3,startup
+v5_51_to_24,51 中段 → 24 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/51_start_03.webp,2,startup
+v5_51_to_24,51 中段 → 24 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_51_to_24,51 中段 → 24 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_51_to_24,51 中段 → 24 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_51_to_24,51 中段 → 24 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/24_up_01.webp,2,startup
+v5_51_to_24,51 中段 → 24 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/24_up_02.webp,3,active
+v5_51_to_24,51 中段 → 24 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_15_to_25,15 中段 → 25 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/14_kick_03.webp,2,normal_active
+v5_15_to_25,15 中段 → 25 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/14_kick_04.webp,1,branch
+v5_15_to_25,15 中段 → 25 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/heel_02.webp,2,startup
+v5_15_to_25,15 中段 → 25 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_15_to_25,15 中段 → 25 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_15_to_25,15 中段 → 25 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_15_to_25,15 中段 → 25 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/25_dash_01.webp,2,startup
+v5_15_to_25,15 中段 → 25 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/25_dash_02.webp,2,startup
+v5_15_to_25,15 中段 → 25 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/25_dash_03.webp,2,active
+v5_15_to_25,15 中段 → 25 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/25_dash_04.webp,2,active
+v5_15_to_25,15 中段 → 25 地上必殺技,10,sprites/02_通常技_連携中段_共通キャンセル/25_dash_05.webp,2,active
+v5_15_to_25,15 中段 → 25 地上必殺技,11,sprites/02_通常技_連携中段_共通キャンセル/25_dash_06.webp,3,recovery
+v5_15_to_25,15 中段 → 25 地上必殺技,12,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_15_to_20,15 中段 → 20 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/14_kick_03.webp,2,normal_active
+v5_15_to_20,15 中段 → 20 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/14_kick_04.webp,1,branch
+v5_15_to_20,15 中段 → 20 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/heel_02.webp,2,startup
+v5_15_to_20,15 中段 → 20 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_15_to_20,15 中段 → 20 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_15_to_20,15 中段 → 20 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_15_to_20,15 中段 → 20 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/20_moon_01.webp,2,startup
+v5_15_to_20,15 中段 → 20 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/20_moon_02.webp,2,startup
+v5_15_to_20,15 中段 → 20 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/20_moon_03.webp,3,active
+v5_15_to_20,15 中段 → 20 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_15_to_24,15 中段 → 24 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/14_kick_03.webp,2,normal_active
+v5_15_to_24,15 中段 → 24 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/14_kick_04.webp,1,branch
+v5_15_to_24,15 中段 → 24 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/heel_02.webp,2,startup
+v5_15_to_24,15 中段 → 24 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/heel_03.webp,2,startup
+v5_15_to_24,15 中段 → 24 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/heel_04.webp,2,active_mid
+v5_15_to_24,15 中段 → 24 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/heel_05.webp,2,landed_cancel
+v5_15_to_24,15 中段 → 24 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/24_up_01.webp,2,startup
+v5_15_to_24,15 中段 → 24 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/24_up_02.webp,3,active
+v5_15_to_24,15 中段 → 24 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_13_single,13 遠距離P：通常復帰,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_13_single,13 遠距離P：通常復帰,1,sprites/02_通常技_連携中段_共通キャンセル/13_far_01.webp,2,startup
+v5_13_single,13 遠距離P：通常復帰,2,sprites/02_通常技_連携中段_共通キャンセル/13_far_02.webp,2,startup
+v5_13_single,13 遠距離P：通常復帰,3,sprites/02_通常技_連携中段_共通キャンセル/13_far_03.webp,2,active
+v5_13_single,13 遠距離P：通常復帰,4,sprites/02_通常技_連携中段_共通キャンセル/13_far_04.webp,1,active
+v5_13_single,13 遠距離P：通常復帰,5,sprites/02_通常技_連携中段_共通キャンセル/13_far_05.webp,3,recovery
+v5_13_single,13 遠距離P：通常復帰,6,sprites/02_通常技_連携中段_共通キャンセル/13_far_06.webp,3,recovery
+v5_13_single,13 遠距離P：通常復帰,7,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_13_to_25,13 遠距離P → 25 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_13_to_25,13 遠距離P → 25 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/13_far_01.webp,2,startup
+v5_13_to_25,13 遠距離P → 25 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/13_far_02.webp,2,startup
+v5_13_to_25,13 遠距離P → 25 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/13_far_03.webp,2,active
+v5_13_to_25,13 遠距離P → 25 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/13_far_04.webp,1,active
+v5_13_to_25,13 遠距離P → 25 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/13C_03.webp,1,transition_visual
+v5_13_to_25,13 遠距離P → 25 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/25_dash_01.webp,2,startup
+v5_13_to_25,13 遠距離P → 25 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/25_dash_02.webp,2,startup
+v5_13_to_25,13 遠距離P → 25 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/25_dash_03.webp,2,active
+v5_13_to_25,13 遠距離P → 25 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/25_dash_04.webp,2,active
+v5_13_to_25,13 遠距離P → 25 地上必殺技,10,sprites/02_通常技_連携中段_共通キャンセル/25_dash_05.webp,2,active
+v5_13_to_25,13 遠距離P → 25 地上必殺技,11,sprites/02_通常技_連携中段_共通キャンセル/25_dash_06.webp,3,recovery
+v5_13_to_25,13 遠距離P → 25 地上必殺技,12,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_13_to_20,13 遠距離P → 20 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_13_to_20,13 遠距離P → 20 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/13_far_01.webp,2,startup
+v5_13_to_20,13 遠距離P → 20 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/13_far_02.webp,2,startup
+v5_13_to_20,13 遠距離P → 20 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/13_far_03.webp,2,active
+v5_13_to_20,13 遠距離P → 20 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/13_far_04.webp,1,active
+v5_13_to_20,13 遠距離P → 20 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/13C_03.webp,1,transition_visual
+v5_13_to_20,13 遠距離P → 20 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/20_moon_01.webp,2,startup
+v5_13_to_20,13 遠距離P → 20 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/20_moon_02.webp,2,startup
+v5_13_to_20,13 遠距離P → 20 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/20_moon_03.webp,3,active
+v5_13_to_20,13 遠距離P → 20 地上必殺技,9,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_13_to_24,13 遠距離P → 24 地上必殺技,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_13_to_24,13 遠距離P → 24 地上必殺技,1,sprites/02_通常技_連携中段_共通キャンセル/13_far_01.webp,2,startup
+v5_13_to_24,13 遠距離P → 24 地上必殺技,2,sprites/02_通常技_連携中段_共通キャンセル/13_far_02.webp,2,startup
+v5_13_to_24,13 遠距離P → 24 地上必殺技,3,sprites/02_通常技_連携中段_共通キャンセル/13_far_03.webp,2,active
+v5_13_to_24,13 遠距離P → 24 地上必殺技,4,sprites/02_通常技_連携中段_共通キャンセル/13_far_04.webp,1,active
+v5_13_to_24,13 遠距離P → 24 地上必殺技,5,sprites/02_通常技_連携中段_共通キャンセル/13C_03.webp,1,transition_visual
+v5_13_to_24,13 遠距離P → 24 地上必殺技,6,sprites/02_通常技_連携中段_共通キャンセル/24_up_01.webp,2,startup
+v5_13_to_24,13 遠距離P → 24 地上必殺技,7,sprites/02_通常技_連携中段_共通キャンセル/24_up_02.webp,3,active
+v5_13_to_24,13 遠距離P → 24 地上必殺技,8,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,recovery
+v5_14_single,14 近距離K：単発終了,0,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,2,idle
+v5_14_single,14 近距離K：単発終了,1,sprites/02_通常技_連携中段_共通キャンセル/14_kick_01.webp,2,startup
+v5_14_single,14 近距離K：単発終了,2,sprites/02_通常技_連携中段_共通キャンセル/14_kick_02.webp,2,startup
+v5_14_single,14 近距離K：単発終了,3,sprites/02_通常技_連携中段_共通キャンセル/14_kick_03.webp,3,active
+v5_14_single,14 近距離K：単発終了,4,sprites/02_通常技_連携中段_共通キャンセル/14_kick_04.webp,2,recovery
+v5_14_single,14 近距離K：単発終了,5,sprites/02_通常技_連携中段_共通キャンセル/14_kick_05.webp,2,recovery
+v5_14_single,14 近距離K：単発終了,6,sprites/02_通常技_連携中段_共通キャンセル/neutral.webp,3,idle
+v6_25_full,25：単独発動（全動作）,0,sprites/03_25_突進/neutral.webp,2,idle
+v6_25_full,25：単独発動（全動作）,1,sprites/03_25_突進/25_windup_squash.webp,2,windup
+v6_25_full,25：単独発動（全動作）,2,sprites/03_25_突進/CGS25_01.webp,2,windup
+v6_25_full,25：単独発動（全動作）,3,sprites/03_25_突進/CGS25_02.webp,2,windup
+v6_25_full,25：単独発動（全動作）,4,sprites/03_25_突進/25_dash_02.webp,1,launch
+v6_25_full,25：単独発動（全動作）,5,sprites/03_25_突進/25_launch_stretch.webp,1,launch
+v6_25_full,25：単独発動（全動作）,6,sprites/03_25_突進/25_dash_03.webp,1,rush
+v6_25_full,25：単独発動（全動作）,7,sprites/03_25_突進/25_rush_03_04_a.webp,1,rush_interpolated
+v6_25_full,25：単独発動（全動作）,8,sprites/03_25_突進/25_rush_03_04_b.webp,1,rush_interpolated
+v6_25_full,25：単独発動（全動作）,9,sprites/03_25_突進/25_dash_04.webp,1,rush
+v6_25_full,25：単独発動（全動作）,10,sprites/03_25_突進/25_rush_04_05_a.webp,1,rush_interpolated
+v6_25_full,25：単独発動（全動作）,11,sprites/03_25_突進/25_rush_04_05_b.webp,1,rush_interpolated
+v6_25_full,25：単独発動（全動作）,12,sprites/03_25_突進/25_dash_05.webp,1,rush
+v6_25_full,25：単独発動（全動作）,13,sprites/03_25_突進/25_brake_squash.webp,2,brake
+v6_25_full,25：単独発動（全動作）,14,sprites/03_25_突進/CGS25_02.webp,2,brake
+v6_25_full,25：単独発動（全動作）,15,sprites/03_25_突進/25_brake_rebound.webp,2,recovery
+v6_25_full,25：単独発動（全動作）,16,sprites/03_25_突進/CGS25_01.webp,2,recovery
+v6_25_full,25：単独発動（全動作）,17,sprites/03_25_突進/neutral.webp,3,idle
+v6_25_cancel,25：通常技からキャンセル発動,0,sprites/03_25_突進/CGS25_02.webp,1,cancel_start
+v6_25_cancel,25：通常技からキャンセル発動,1,sprites/03_25_突進/25_dash_02.webp,1,launch
+v6_25_cancel,25：通常技からキャンセル発動,2,sprites/03_25_突進/25_launch_stretch.webp,1,launch
+v6_25_cancel,25：通常技からキャンセル発動,3,sprites/03_25_突進/25_dash_03.webp,1,rush
+v6_25_cancel,25：通常技からキャンセル発動,4,sprites/03_25_突進/25_rush_03_04_a.webp,1,rush_interpolated
+v6_25_cancel,25：通常技からキャンセル発動,5,sprites/03_25_突進/25_rush_03_04_b.webp,1,rush_interpolated
+v6_25_cancel,25：通常技からキャンセル発動,6,sprites/03_25_突進/25_dash_04.webp,1,rush
+v6_25_cancel,25：通常技からキャンセル発動,7,sprites/03_25_突進/25_rush_04_05_a.webp,1,rush_interpolated
+v6_25_cancel,25：通常技からキャンセル発動,8,sprites/03_25_突進/25_rush_04_05_b.webp,1,rush_interpolated
+v6_25_cancel,25：通常技からキャンセル発動,9,sprites/03_25_突進/25_dash_05.webp,1,rush
+v6_25_cancel,25：通常技からキャンセル発動,10,sprites/03_25_突進/25_brake_squash.webp,2,brake
+v6_25_cancel,25：通常技からキャンセル発動,11,sprites/03_25_突進/CGS25_02.webp,2,brake
+v6_25_cancel,25：通常技からキャンセル発動,12,sprites/03_25_突進/25_brake_rebound.webp,2,recovery
+v6_25_cancel,25：通常技からキャンセル発動,13,sprites/03_25_突進/CGS25_01.webp,2,recovery
+v6_25_cancel,25：通常技からキャンセル発動,14,sprites/03_25_突進/neutral.webp,3,idle
+v6_25_hit,25：ヒット時の停止例,0,sprites/03_25_突進/neutral.webp,2,idle
+v6_25_hit,25：ヒット時の停止例,1,sprites/03_25_突進/25_windup_squash.webp,2,windup
+v6_25_hit,25：ヒット時の停止例,2,sprites/03_25_突進/CGS25_01.webp,2,windup
+v6_25_hit,25：ヒット時の停止例,3,sprites/03_25_突進/CGS25_02.webp,2,windup
+v6_25_hit,25：ヒット時の停止例,4,sprites/03_25_突進/25_dash_02.webp,1,launch
+v6_25_hit,25：ヒット時の停止例,5,sprites/03_25_突進/25_launch_stretch.webp,1,launch
+v6_25_hit,25：ヒット時の停止例,6,sprites/03_25_突進/25_dash_03.webp,1,rush
+v6_25_hit,25：ヒット時の停止例,7,sprites/03_25_突進/25_rush_03_04_a.webp,1,rush_interpolated
+v6_25_hit,25：ヒット時の停止例,8,sprites/03_25_突進/25_rush_03_04_b.webp,1,rush_interpolated
+v6_25_hit,25：ヒット時の停止例,9,sprites/03_25_突進/25_dash_04.webp,1,rush
+v6_25_hit,25：ヒット時の停止例,10,sprites/03_25_突進/25_dash_04.webp,4,hitstop
+v6_25_hit,25：ヒット時の停止例,11,sprites/03_25_突進/25_brake_squash.webp,2,brake
+v6_25_hit,25：ヒット時の停止例,12,sprites/03_25_突進/CGS25_02.webp,2,brake
+v6_25_hit,25：ヒット時の停止例,13,sprites/03_25_突進/25_brake_rebound.webp,2,recovery
+v6_25_hit,25：ヒット時の停止例,14,sprites/03_25_突進/CGS25_01.webp,2,recovery
+v6_25_hit,25：ヒット時の停止例,15,sprites/03_25_突進/neutral.webp,3,idle
+v6_25_guard,25：ガード時の停止例,0,sprites/03_25_突進/neutral.webp,2,idle
+v6_25_guard,25：ガード時の停止例,1,sprites/03_25_突進/25_windup_squash.webp,2,windup
+v6_25_guard,25：ガード時の停止例,2,sprites/03_25_突進/CGS25_01.webp,2,windup
+v6_25_guard,25：ガード時の停止例,3,sprites/03_25_突進/CGS25_02.webp,2,windup
+v6_25_guard,25：ガード時の停止例,4,sprites/03_25_突進/25_dash_02.webp,1,launch
+v6_25_guard,25：ガード時の停止例,5,sprites/03_25_突進/25_launch_stretch.webp,1,launch
+v6_25_guard,25：ガード時の停止例,6,sprites/03_25_突進/25_dash_03.webp,1,rush
+v6_25_guard,25：ガード時の停止例,7,sprites/03_25_突進/25_rush_03_04_a.webp,1,rush_interpolated
+v6_25_guard,25：ガード時の停止例,8,sprites/03_25_突進/25_rush_03_04_b.webp,1,rush_interpolated
+v6_25_guard,25：ガード時の停止例,9,sprites/03_25_突進/25_dash_04.webp,1,rush
+v6_25_guard,25：ガード時の停止例,10,sprites/03_25_突進/25_dash_04.webp,3,blockstop
+v6_25_guard,25：ガード時の停止例,11,sprites/03_25_突進/25_brake_squash.webp,2,brake
+v6_25_guard,25：ガード時の停止例,12,sprites/03_25_突進/CGS25_02.webp,2,brake
+v6_25_guard,25：ガード時の停止例,13,sprites/03_25_突進/25_brake_rebound.webp,2,recovery
+v6_25_guard,25：ガード時の停止例,14,sprites/03_25_突進/CGS25_01.webp,2,recovery
+v6_25_guard,25：ガード時の停止例,15,sprites/03_25_突進/neutral.webp,3,idle
+v6_25_whiff,25：空振りで走り切る例,0,sprites/03_25_突進/neutral.webp,2,idle
+v6_25_whiff,25：空振りで走り切る例,1,sprites/03_25_突進/25_windup_squash.webp,2,windup
+v6_25_whiff,25：空振りで走り切る例,2,sprites/03_25_突進/CGS25_01.webp,2,windup
+v6_25_whiff,25：空振りで走り切る例,3,sprites/03_25_突進/CGS25_02.webp,2,windup
+v6_25_whiff,25：空振りで走り切る例,4,sprites/03_25_突進/25_dash_02.webp,1,launch
+v6_25_whiff,25：空振りで走り切る例,5,sprites/03_25_突進/25_launch_stretch.webp,1,launch
+v6_25_whiff,25：空振りで走り切る例,6,sprites/03_25_突進/25_dash_03.webp,1,rush
+v6_25_whiff,25：空振りで走り切る例,7,sprites/03_25_突進/25_rush_03_04_a.webp,1,rush_interpolated
+v6_25_whiff,25：空振りで走り切る例,8,sprites/03_25_突進/25_rush_03_04_b.webp,1,rush_interpolated
+v6_25_whiff,25：空振りで走り切る例,9,sprites/03_25_突進/25_dash_04.webp,1,rush
+v6_25_whiff,25：空振りで走り切る例,10,sprites/03_25_突進/25_rush_04_05_a.webp,1,rush_interpolated
+v6_25_whiff,25：空振りで走り切る例,11,sprites/03_25_突進/25_rush_04_05_b.webp,1,rush_interpolated
+v6_25_whiff,25：空振りで走り切る例,12,sprites/03_25_突進/25_dash_05.webp,1,rush
+v6_25_whiff,25：空振りで走り切る例,13,sprites/03_25_突進/25_brake_squash.webp,2,brake
+v6_25_whiff,25：空振りで走り切る例,14,sprites/03_25_突進/CGS25_02.webp,2,brake
+v6_25_whiff,25：空振りで走り切る例,15,sprites/03_25_突進/25_brake_rebound.webp,2,recovery
+v6_25_whiff,25：空振りで走り切る例,16,sprites/03_25_突進/CGS25_01.webp,2,recovery
+v6_25_whiff,25：空振りで走り切る例,17,sprites/03_25_突進/neutral.webp,3,idle
+v7_20_spin,20：月の回転（溜め・解除）,0,sprites/04_20-23_ジヘルトリガー/neutral.webp,2,neutral
+v7_20_spin,20：月の回転（溜め・解除）,1,sprites/04_20-23_ジヘルトリガー/CGS20_01.webp,2,startup
+v7_20_spin,20：月の回転（溜め・解除）,2,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_20_spin,20：月の回転（溜め・解除）,3,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_20_spin,20：月の回転（溜め・解除）,4,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,charge
+v7_20_spin,20：月の回転（溜め・解除）,5,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,1,charge
+v7_20_spin,20：月の回転（溜め・解除）,6,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_20_spin,20：月の回転（溜め・解除）,7,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_20_spin,20：月の回転（溜め・解除）,8,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_20_spin,20：月の回転（溜め・解除）,9,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_20_spin,20：月の回転（溜め・解除）,10,sprites/04_20-23_ジヘルトリガー/20_character.webp,2,charge_hold
+v7_20_spin,20：月の回転（溜め・解除）,11,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,recovery
+v7_20_spin,20：月の回転（溜め・解除）,12,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,recovery
+v7_20_spin,20：月の回転（溜め・解除）,13,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,3,idle
+v7_21_push,20→21：月を押し出す（発射準備）,0,sprites/04_20-23_ジヘルトリガー/neutral.webp,2,neutral
+v7_21_push,20→21：月を押し出す（発射準備）,1,sprites/04_20-23_ジヘルトリガー/CGS20_01.webp,2,startup
+v7_21_push,20→21：月を押し出す（発射準備）,2,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_21_push,20→21：月を押し出す（発射準備）,3,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_21_push,20→21：月を押し出す（発射準備）,4,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,charge
+v7_21_push,20→21：月を押し出す（発射準備）,5,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,1,charge
+v7_21_push,20→21：月を押し出す（発射準備）,6,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_21_push,20→21：月を押し出す（発射準備）,7,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_21_push,20→21：月を押し出す（発射準備）,8,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_21_push,20→21：月を押し出す（発射準備）,9,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_21_push,20→21：月を押し出す（発射準備）,10,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,push
+v7_21_push,20→21：月を押し出す（発射準備）,11,sprites/04_20-23_ジヘルトリガー/21_03_character.webp,2,push
+v7_21_push,20→21：月を押し出す（発射準備）,12,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,push
+v7_21_push,20→21：月を押し出す（発射準備）,13,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,push
+v7_21_push,20→21：月を押し出す（発射準備）,14,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,release
+v7_21_push,20→21：月を押し出す（発射準備）,15,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,2,recoil
+v7_21_push,20→21：月を押し出す（発射準備）,16,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,recovery
+v7_21_push,20→21：月を押し出す（発射準備）,17,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,3,idle
+v7_22_horizontal,20→21→22：水平回転飛び道具,0,sprites/04_20-23_ジヘルトリガー/neutral.webp,2,neutral
+v7_22_horizontal,20→21→22：水平回転飛び道具,1,sprites/04_20-23_ジヘルトリガー/CGS20_01.webp,2,startup
+v7_22_horizontal,20→21→22：水平回転飛び道具,2,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,3,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,4,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,5,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,1,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,6,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,7,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,8,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,9,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_22_horizontal,20→21→22：水平回転飛び道具,10,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,push
+v7_22_horizontal,20→21→22：水平回転飛び道具,11,sprites/04_20-23_ジヘルトリガー/21_03_character.webp,2,push
+v7_22_horizontal,20→21→22：水平回転飛び道具,12,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,push
+v7_22_horizontal,20→21→22：水平回転飛び道具,13,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,push
+v7_22_horizontal,20→21→22：水平回転飛び道具,14,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,15,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,16,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,17,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,18,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,19,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,20,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,21,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,22,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,23,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,24,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,25,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,26,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,27,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,28,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_horizontal,20→21→22：水平回転飛び道具,29,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,recovery
+v7_22_horizontal,20→21→22：水平回転飛び道具,30,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,3,idle
+v7_23_upper,20→21→23：斜め上60°の置き対空,0,sprites/04_20-23_ジヘルトリガー/neutral.webp,2,neutral
+v7_23_upper,20→21→23：斜め上60°の置き対空,1,sprites/04_20-23_ジヘルトリガー/CGS20_01.webp,2,startup
+v7_23_upper,20→21→23：斜め上60°の置き対空,2,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,3,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,4,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,5,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,1,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,6,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,7,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,8,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,9,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_23_upper,20→21→23：斜め上60°の置き対空,10,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,push
+v7_23_upper,20→21→23：斜め上60°の置き対空,11,sprites/04_20-23_ジヘルトリガー/21_03_character.webp,2,push
+v7_23_upper,20→21→23：斜め上60°の置き対空,12,sprites/04_20-23_ジヘルトリガー/23_02_character.webp,2,raise
+v7_23_upper,20→21→23：斜め上60°の置き対空,13,sprites/04_20-23_ジヘルトリガー/23_03_character.webp,2,raise
+v7_23_upper,20→21→23：斜め上60°の置き対空,14,sprites/04_20-23_ジヘルトリガー/23_03_character.webp,1,raise
+v7_23_upper,20→21→23：斜め上60°の置き対空,15,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,raise
+v7_23_upper,20→21→23：斜め上60°の置き対空,16,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,17,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,18,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,2,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,19,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,20,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,1,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,21,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,2,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,22,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,1,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,23,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,1,anti_air_hold
+v7_23_upper,20→21→23：斜め上60°の置き対空,24,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,2,anti_air_return
+v7_23_upper,20→21→23：斜め上60°の置き対空,25,sprites/04_20-23_ジヘルトリガー/23_02_character.webp,2,recovery
+v7_23_upper,20→21→23：斜め上60°の置き対空,26,sprites/04_20-23_ジヘルトリガー/23_06_original.webp,3,idle
+v7_22_cancel,通常技キャンセル→22：短縮始動,0,sprites/04_20-23_ジヘルトリガー/CGS20_02.webp,1,cancel_start
+v7_22_cancel,通常技キャンセル→22：短縮始動,1,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,2,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,3,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,1,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,4,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,5,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,6,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,7,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_22_cancel,通常技キャンセル→22：短縮始動,8,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,push
+v7_22_cancel,通常技キャンセル→22：短縮始動,9,sprites/04_20-23_ジヘルトリガー/21_03_character.webp,2,push
+v7_22_cancel,通常技キャンセル→22：短縮始動,10,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,push
+v7_22_cancel,通常技キャンセル→22：短縮始動,11,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,push
+v7_22_cancel,通常技キャンセル→22：短縮始動,12,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,13,sprites/04_20-23_ジヘルトリガー/21_05_character.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,14,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,15,sprites/04_20-23_ジヘルトリガー/21_04_character.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,16,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,17,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,18,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,19,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,20,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,21,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,22,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,23,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,24,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,25,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,26,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,1,projectile_flight
+v7_22_cancel,通常技キャンセル→22：短縮始動,27,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,recovery
+v7_22_cancel,通常技キャンセル→22：短縮始動,28,sprites/04_20-23_ジヘルトリガー/21_06_original.webp,3,idle
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,0,sprites/04_20-23_ジヘルトリガー/CGS20_02.webp,1,cancel_start
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,1,sprites/04_20-23_ジヘルトリガー/20_1_character.webp,2,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,2,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,2,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,3,sprites/04_20-23_ジヘルトリガー/20_2_character.webp,1,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,4,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,5,sprites/04_20-23_ジヘルトリガー/20_3_character.webp,1,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,6,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,7,sprites/04_20-23_ジヘルトリガー/20_character.webp,1,charge
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,8,sprites/04_20-23_ジヘルトリガー/21_02_character.webp,2,push
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,9,sprites/04_20-23_ジヘルトリガー/21_03_character.webp,2,push
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,10,sprites/04_20-23_ジヘルトリガー/23_02_character.webp,2,raise
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,11,sprites/04_20-23_ジヘルトリガー/23_03_character.webp,2,raise
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,12,sprites/04_20-23_ジヘルトリガー/23_03_character.webp,1,raise
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,13,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,raise
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,14,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,15,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,16,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,2,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,17,sprites/04_20-23_ジヘルトリガー/23_04_character.webp,1,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,18,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,1,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,19,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,2,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,20,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,1,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,21,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,1,anti_air_hold
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,22,sprites/04_20-23_ジヘルトリガー/23_05_character.webp,2,anti_air_return
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,23,sprites/04_20-23_ジヘルトリガー/23_02_character.webp,2,recovery
+v7_23_cancel,通常技キャンセル→23：置き対空・短縮始動,24,sprites/04_20-23_ジヘルトリガー/23_06_original.webp,3,idle
+v8_24_single,24 対空必殺技・単独発動,0,sprites/05_24_対空/24v8_00.webp,2,ready
+v8_24_single,24 対空必殺技・単独発動,1,sprites/05_24_対空/24v8_01.webp,2,windup
+v8_24_single,24 対空必殺技・単独発動,2,sprites/05_24_対空/24v8_02.webp,2,windup_hold
+v8_24_single,24 対空必殺技・単独発動,3,sprites/05_24_対空/24v8_03.webp,2,takeoff
+v8_24_single,24 対空必殺技・単独発動,4,sprites/05_24_対空/24v8_04.webp,2,rise
+v8_24_single,24 対空必殺技・単独発動,5,sprites/05_24_対空/24v8_05.webp,2,rise
+v8_24_single,24 対空必殺技・単独発動,6,sprites/05_24_対空/24v8_06.webp,2,rise
+v8_24_single,24 対空必殺技・単独発動,7,sprites/05_24_対空/24v8_07.webp,2,apex
+v8_24_single,24 対空必殺技・単独発動,8,sprites/05_24_対空/24v8_08.webp,2,apex
+v8_24_single,24 対空必殺技・単独発動,9,sprites/05_24_対空/24v8_09.webp,2,apex
+v8_24_single,24 対空必殺技・単独発動,10,sprites/05_24_対空/24v8_10.webp,2,fall
+v8_24_single,24 対空必殺技・単独発動,11,sprites/05_24_対空/24v8_11.webp,2,fall
+v8_24_single,24 対空必殺技・単独発動,12,sprites/05_24_対空/24v8_12.webp,2,fall
+v8_24_single,24 対空必殺技・単独発動,13,sprites/05_24_対空/24v8_13.webp,2,fall_recovery
+v8_24_single,24 対空必殺技・単独発動,14,sprites/05_24_対空/24v8_14.webp,2,near_ground
+v8_24_single,24 対空必殺技・単独発動,15,sprites/05_24_対空/24v8_15.webp,3,landing
+v8_24_single,24 対空必殺技・単独発動,16,sprites/05_24_対空/24v8_16.webp,2,recovery
+v8_24_single,24 対空必殺技・単独発動,17,sprites/05_24_対空/24v8_17.webp,4,idle
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,0,sprites/05_24_対空/24v8_01.webp,2,windup
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,1,sprites/05_24_対空/24v8_02.webp,2,windup_hold
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,2,sprites/05_24_対空/24v8_03.webp,2,takeoff
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,3,sprites/05_24_対空/24v8_04.webp,2,rise
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,4,sprites/05_24_対空/24v8_05.webp,2,rise
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,5,sprites/05_24_対空/24v8_06.webp,2,rise
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,6,sprites/05_24_対空/24v8_07.webp,2,apex
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,7,sprites/05_24_対空/24v8_08.webp,2,apex
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,8,sprites/05_24_対空/24v8_09.webp,2,apex
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,9,sprites/05_24_対空/24v8_10.webp,2,fall
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,10,sprites/05_24_対空/24v8_11.webp,2,fall
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,11,sprites/05_24_対空/24v8_12.webp,2,fall
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,12,sprites/05_24_対空/24v8_13.webp,2,fall_recovery
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,13,sprites/05_24_対空/24v8_14.webp,2,near_ground
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,14,sprites/05_24_対空/24v8_15.webp,3,landing
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,15,sprites/05_24_対空/24v8_16.webp,2,recovery
+v8_24_cancel,各通常技から24へキャンセル（短縮始動）,16,sprites/05_24_対空/24v8_17.webp,4,idle
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,0,sprites/05_24_対空/24v8_00.webp,2,ready
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,1,sprites/05_24_対空/24v8_01.webp,2,windup
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,2,sprites/05_24_対空/24v8_02.webp,2,windup_hold
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,3,sprites/05_24_対空/24v8_03.webp,2,takeoff
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,4,sprites/05_24_対空/24v8_04.webp,2,rise
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,5,sprites/05_24_対空/24v8_05.webp,2,rise
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,6,sprites/05_24_対空/24v8_06.webp,2,rise
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,7,sprites/05_24_対空/24v8_07.webp,2,apex
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,8,sprites/05_24_対空/24v8_08.webp,2,apex
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,9,sprites/05_24_対空/24v8_09.webp,2,apex
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,10,sprites/05_24_対空/24v8_10.webp,2,fall
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,11,sprites/05_24_対空/24v8_11.webp,2,fall
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,12,sprites/05_24_対空/24v8_12.webp,2,fall
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,13,sprites/05_24_対空/24v8_13.webp,2,fall_recovery
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,14,sprites/05_24_対空/24v8_14.webp,2,near_ground
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,15,sprites/05_24_対空/24v8_15.webp,3,landing
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,16,sprites/05_24_対空/24v8_16.webp,2,recovery
+v8_24_hit,24 ヒット時（頂点に6Fの視覚上の停止を試用）,17,sprites/05_24_対空/24v8_17.webp,4,idle
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,0,sprites/05_24_対空/24v8_00.webp,2,ready
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,1,sprites/05_24_対空/24v8_01.webp,2,windup
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,2,sprites/05_24_対空/24v8_02.webp,2,windup_hold
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,3,sprites/05_24_対空/24v8_03.webp,2,takeoff
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,4,sprites/05_24_対空/24v8_04.webp,2,rise
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,5,sprites/05_24_対空/24v8_05.webp,2,rise
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,6,sprites/05_24_対空/24v8_06.webp,2,rise
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,7,sprites/05_24_対空/24v8_07.webp,2,apex
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,8,sprites/05_24_対空/24v8_08.webp,2,apex
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,9,sprites/05_24_対空/24v8_09.webp,2,apex
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,10,sprites/05_24_対空/24v8_10.webp,2,fall
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,11,sprites/05_24_対空/24v8_11.webp,2,fall
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,12,sprites/05_24_対空/24v8_12.webp,2,fall
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,13,sprites/05_24_対空/24v8_13.webp,2,fall_recovery
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,14,sprites/05_24_対空/24v8_14.webp,2,near_ground
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,15,sprites/05_24_対空/24v8_15.webp,3,landing
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,16,sprites/05_24_対空/24v8_16.webp,2,recovery
+v8_24_guard,24 ガード時（頂点に4Fの視覚上の停止を試用）,17,sprites/05_24_対空/24v8_17.webp,4,idle
+v8_24_whiff,24 空振り（停止なし）,0,sprites/05_24_対空/24v8_00.webp,2,ready
+v8_24_whiff,24 空振り（停止なし）,1,sprites/05_24_対空/24v8_01.webp,2,windup
+v8_24_whiff,24 空振り（停止なし）,2,sprites/05_24_対空/24v8_02.webp,2,windup_hold
+v8_24_whiff,24 空振り（停止なし）,3,sprites/05_24_対空/24v8_03.webp,2,takeoff
+v8_24_whiff,24 空振り（停止なし）,4,sprites/05_24_対空/24v8_04.webp,2,rise
+v8_24_whiff,24 空振り（停止なし）,5,sprites/05_24_対空/24v8_05.webp,2,rise
+v8_24_whiff,24 空振り（停止なし）,6,sprites/05_24_対空/24v8_06.webp,2,rise
+v8_24_whiff,24 空振り（停止なし）,7,sprites/05_24_対空/24v8_07.webp,2,apex
+v8_24_whiff,24 空振り（停止なし）,8,sprites/05_24_対空/24v8_08.webp,2,apex
+v8_24_whiff,24 空振り（停止なし）,9,sprites/05_24_対空/24v8_09.webp,2,apex
+v8_24_whiff,24 空振り（停止なし）,10,sprites/05_24_対空/24v8_10.webp,2,fall
+v8_24_whiff,24 空振り（停止なし）,11,sprites/05_24_対空/24v8_11.webp,2,fall
+v8_24_whiff,24 空振り（停止なし）,12,sprites/05_24_対空/24v8_12.webp,2,fall
+v8_24_whiff,24 空振り（停止なし）,13,sprites/05_24_対空/24v8_13.webp,2,fall_recovery
+v8_24_whiff,24 空振り（停止なし）,14,sprites/05_24_対空/24v8_14.webp,2,near_ground
+v8_24_whiff,24 空振り（停止なし）,15,sprites/05_24_対空/24v8_15.webp,3,landing
+v8_24_whiff,24 空振り（停止なし）,16,sprites/05_24_対空/24v8_16.webp,2,recovery
+v8_24_whiff,24 空振り（停止なし）,17,sprites/05_24_対空/24v8_17.webp,4,idle
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,0,sprites/06_26-27_超必殺技/S00.webp,3,ready
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,1,sprites/06_26-27_超必殺技/S01.webp,3,finger_raised
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,2,sprites/06_26-27_超必殺技/S02.webp,3,charge_1
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,3,sprites/06_26-27_超必殺技/S03.webp,3,charge_2
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,4,sprites/06_26-27_超必殺技/S04.webp,3,charge_3
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,5,sprites/06_26-27_超必殺技/S05.webp,3,charge_peak
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,6,sprites/06_26-27_超必殺技/S06.webp,2,charge_peak
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,7,sprites/06_26-27_超必殺技/S07.webp,2,release_0
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,8,sprites/06_26-27_超必殺技/S08.webp,2,release_1
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,9,sprites/06_26-27_超必殺技/S09.webp,2,palm_launch
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,10,sprites/06_26-27_超必殺技/S10.webp,2,dash_acceleration
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,11,sprites/06_26-27_超必殺技/S11.webp,2,dash_1
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,12,sprites/06_26-27_超必殺技/S12.webp,2,dash_2
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,13,sprites/06_26-27_超必殺技/S13.webp,2,dash_3
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,14,sprites/06_26-27_超必殺技/S14.webp,2,dash_4
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,15,sprites/06_26-27_超必殺技/S15.webp,2,dash_5
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,16,sprites/06_26-27_超必殺技/S16.webp,3,finisher
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,17,sprites/06_26-27_超必殺技/S17.webp,3,brake_1
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,18,sprites/06_26-27_超必殺技/S18.webp,2,brake_2
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,19,sprites/06_26-27_超必殺技/S19.webp,3,recovery_1
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,20,sprites/06_26-27_超必殺技/S20.webp,3,recovery_2
+v9_full_super,26 指先で月を溜める → 27 掌底突進（通し）,21,sprites/06_26-27_超必殺技/S21.webp,5,return_idle
+v9_charge_only,26 指先で月を回す・溜め段階,0,sprites/06_26-27_超必殺技/S00.webp,3,ready
+v9_charge_only,26 指先で月を回す・溜め段階,1,sprites/06_26-27_超必殺技/S01.webp,3,finger_raised
+v9_charge_only,26 指先で月を回す・溜め段階,2,sprites/06_26-27_超必殺技/S02.webp,3,charge_1
+v9_charge_only,26 指先で月を回す・溜め段階,3,sprites/06_26-27_超必殺技/S03.webp,3,charge_2
+v9_charge_only,26 指先で月を回す・溜め段階,4,sprites/06_26-27_超必殺技/S04.webp,3,charge_3
+v9_charge_only,26 指先で月を回す・溜め段階,5,sprites/06_26-27_超必殺技/S05.webp,3,charge_peak
+v9_charge_only,26 指先で月を回す・溜め段階,6,sprites/06_26-27_超必殺技/S06.webp,2,charge_peak
+v9_charge_only,26 指先で月を回す・溜め段階,7,sprites/06_26-27_超必殺技/S07.webp,2,release_0
+v9_charge_only,26 指先で月を回す・溜め段階,8,sprites/06_26-27_超必殺技/S08.webp,2,release_1
+v9_rush_only,27 掌底突進・短縮開始,0,sprites/06_26-27_超必殺技/S08.webp,2,release_1
+v9_rush_only,27 掌底突進・短縮開始,1,sprites/06_26-27_超必殺技/S09.webp,2,palm_launch
+v9_rush_only,27 掌底突進・短縮開始,2,sprites/06_26-27_超必殺技/S10.webp,2,dash_acceleration
+v9_rush_only,27 掌底突進・短縮開始,3,sprites/06_26-27_超必殺技/S11.webp,2,dash_1
+v9_rush_only,27 掌底突進・短縮開始,4,sprites/06_26-27_超必殺技/S12.webp,2,dash_2
+v9_rush_only,27 掌底突進・短縮開始,5,sprites/06_26-27_超必殺技/S13.webp,2,dash_3
+v9_rush_only,27 掌底突進・短縮開始,6,sprites/06_26-27_超必殺技/S14.webp,2,dash_4
+v9_rush_only,27 掌底突進・短縮開始,7,sprites/06_26-27_超必殺技/S15.webp,2,dash_5
+v9_rush_only,27 掌底突進・短縮開始,8,sprites/06_26-27_超必殺技/S16.webp,3,finisher
+v9_rush_only,27 掌底突進・短縮開始,9,sprites/06_26-27_超必殺技/S17.webp,3,brake_1
+v9_rush_only,27 掌底突進・短縮開始,10,sprites/06_26-27_超必殺技/S18.webp,2,brake_2
+v9_rush_only,27 掌底突進・短縮開始,11,sprites/06_26-27_超必殺技/S19.webp,3,recovery_1
+v9_rush_only,27 掌底突進・短縮開始,12,sprites/06_26-27_超必殺技/S20.webp,3,recovery_2
+v9_rush_only,27 掌底突進・短縮開始,13,sprites/06_26-27_超必殺技/S21.webp,5,return_idle
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,0,sprites/06_26-27_超必殺技/S00.webp,3,ready
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,1,sprites/06_26-27_超必殺技/S01.webp,3,finger_raised
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,2,sprites/06_26-27_超必殺技/S02.webp,3,charge_1
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,3,sprites/06_26-27_超必殺技/S03.webp,3,charge_2
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,4,sprites/06_26-27_超必殺技/S04.webp,3,charge_3
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,5,sprites/06_26-27_超必殺技/S05.webp,3,charge_peak
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,6,sprites/06_26-27_超必殺技/S06.webp,2,charge_peak
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,7,sprites/06_26-27_超必殺技/S07.webp,2,release_0
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,8,sprites/06_26-27_超必殺技/S08.webp,2,release_1
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,9,sprites/06_26-27_超必殺技/S09.webp,2,palm_launch
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,10,sprites/06_26-27_超必殺技/S10.webp,2,dash_acceleration
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,11,sprites/06_26-27_超必殺技/S11.webp,2,dash_1
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,12,sprites/06_26-27_超必殺技/S12.webp,2,dash_2
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,13,sprites/06_26-27_超必殺技/S13.webp,2,dash_3
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,14,sprites/06_26-27_超必殺技/S14.webp,2,dash_4
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,15,sprites/06_26-27_超必殺技/S15.webp,2,dash_5
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,16,sprites/06_26-27_超必殺技/S16.webp,3,finisher
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,17,sprites/06_26-27_超必殺技/S17.webp,3,brake_1
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,18,sprites/06_26-27_超必殺技/S18.webp,2,brake_2
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,19,sprites/06_26-27_超必殺技/S19.webp,3,recovery_1
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,20,sprites/06_26-27_超必殺技/S20.webp,3,recovery_2
+v9_hit,26→27 ヒット時（フィニッシュ停止プレビュー）,21,sprites/06_26-27_超必殺技/S21.webp,5,return_idle
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,0,sprites/06_26-27_超必殺技/S00.webp,3,ready
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,1,sprites/06_26-27_超必殺技/S01.webp,3,finger_raised
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,2,sprites/06_26-27_超必殺技/S02.webp,3,charge_1
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,3,sprites/06_26-27_超必殺技/S03.webp,3,charge_2
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,4,sprites/06_26-27_超必殺技/S04.webp,3,charge_3
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,5,sprites/06_26-27_超必殺技/S05.webp,3,charge_peak
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,6,sprites/06_26-27_超必殺技/S06.webp,2,charge_peak
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,7,sprites/06_26-27_超必殺技/S07.webp,2,release_0
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,8,sprites/06_26-27_超必殺技/S08.webp,2,release_1
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,9,sprites/06_26-27_超必殺技/S09.webp,2,palm_launch
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,10,sprites/06_26-27_超必殺技/S10.webp,2,dash_acceleration
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,11,sprites/06_26-27_超必殺技/S11.webp,2,dash_1
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,12,sprites/06_26-27_超必殺技/S12.webp,2,dash_2
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,13,sprites/06_26-27_超必殺技/S13.webp,2,dash_3
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,14,sprites/06_26-27_超必殺技/S14.webp,2,dash_4
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,15,sprites/06_26-27_超必殺技/S15.webp,2,dash_5
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,16,sprites/06_26-27_超必殺技/S16.webp,3,finisher
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,17,sprites/06_26-27_超必殺技/S17.webp,3,brake_1
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,18,sprites/06_26-27_超必殺技/S18.webp,2,brake_2
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,19,sprites/06_26-27_超必殺技/S19.webp,3,recovery_1
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,20,sprites/06_26-27_超必殺技/S20.webp,3,recovery_2
+v9_guard,26→27 ガード時（フィニッシュ停止プレビュー）,21,sprites/06_26-27_超必殺技/S21.webp,5,return_idle
+v9_whiff,26→27 空振り（停止なし）,0,sprites/06_26-27_超必殺技/S00.webp,3,ready
+v9_whiff,26→27 空振り（停止なし）,1,sprites/06_26-27_超必殺技/S01.webp,3,finger_raised
+v9_whiff,26→27 空振り（停止なし）,2,sprites/06_26-27_超必殺技/S02.webp,3,charge_1
+v9_whiff,26→27 空振り（停止なし）,3,sprites/06_26-27_超必殺技/S03.webp,3,charge_2
+v9_whiff,26→27 空振り（停止なし）,4,sprites/06_26-27_超必殺技/S04.webp,3,charge_3
+v9_whiff,26→27 空振り（停止なし）,5,sprites/06_26-27_超必殺技/S05.webp,3,charge_peak
+v9_whiff,26→27 空振り（停止なし）,6,sprites/06_26-27_超必殺技/S06.webp,2,charge_peak
+v9_whiff,26→27 空振り（停止なし）,7,sprites/06_26-27_超必殺技/S07.webp,2,release_0
+v9_whiff,26→27 空振り（停止なし）,8,sprites/06_26-27_超必殺技/S08.webp,2,release_1
+v9_whiff,26→27 空振り（停止なし）,9,sprites/06_26-27_超必殺技/S09.webp,2,palm_launch
+v9_whiff,26→27 空振り（停止なし）,10,sprites/06_26-27_超必殺技/S10.webp,2,dash_acceleration
+v9_whiff,26→27 空振り（停止なし）,11,sprites/06_26-27_超必殺技/S11.webp,2,dash_1
+v9_whiff,26→27 空振り（停止なし）,12,sprites/06_26-27_超必殺技/S12.webp,2,dash_2
+v9_whiff,26→27 空振り（停止なし）,13,sprites/06_26-27_超必殺技/S13.webp,2,dash_3
+v9_whiff,26→27 空振り（停止なし）,14,sprites/06_26-27_超必殺技/S14.webp,2,dash_4
+v9_whiff,26→27 空振り（停止なし）,15,sprites/06_26-27_超必殺技/S15.webp,2,dash_5
+v9_whiff,26→27 空振り（停止なし）,16,sprites/06_26-27_超必殺技/S16.webp,3,finisher
+v9_whiff,26→27 空振り（停止なし）,17,sprites/06_26-27_超必殺技/S17.webp,3,brake_1
+v9_whiff,26→27 空振り（停止なし）,18,sprites/06_26-27_超必殺技/S18.webp,2,brake_2
+v9_whiff,26→27 空振り（停止なし）,19,sprites/06_26-27_超必殺技/S19.webp,3,recovery_1
+v9_whiff,26→27 空振り（停止なし）,20,sprites/06_26-27_超必殺技/S20.webp,3,recovery_2
+v9_whiff,26→27 空振り（停止なし）,21,sprites/06_26-27_超必殺技/S21.webp,5,return_idle
+v12_04_stand_hit,04 立ちくらい → 復帰,0,sprites/08_被弾反応/04_stand_hit/04_stand_hit_01.webp,3,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,1,sprites/08_被弾反応/04_stand_hit/04_stand_hit_02.webp,3,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,2,sprites/08_被弾反応/04_stand_hit/04_stand_hit_03.webp,5,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,3,sprites/08_被弾反応/04_stand_hit/04_stand_hit_04.webp,3,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,4,sprites/08_被弾反応/04_stand_hit/04_stand_hit_05.webp,3,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,5,sprites/08_被弾反応/04_stand_hit/04_stand_hit_06.webp,3,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,6,sprites/08_被弾反応/04_stand_hit/04_stand_hit_07.webp,4,damage
+v12_04_stand_hit,04 立ちくらい → 復帰,7,sprites/08_被弾反応/04_stand_hit/04_stand_hit_08.webp,5,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,0,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_01.webp,3,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,1,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_02.webp,3,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,2,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_03.webp,5,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,3,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_04.webp,4,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,4,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_05.webp,3,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,5,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_06.webp,3,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,6,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_07.webp,4,damage
+v12_09_crouch_hit,09 しゃがみくらい → 復帰,7,sprites/08_被弾反応/09_crouch_hit/09_crouch_hit_08.webp,5,damage
+v12_44_thrown,44 投げられ → ダウン,0,sprites/08_被弾反応/44_thrown/44_thrown_01.webp,3,damage
+v12_44_thrown,44 投げられ → ダウン,1,sprites/08_被弾反応/44_thrown/44_thrown_02.webp,4,damage
+v12_44_thrown,44 投げられ → ダウン,2,sprites/08_被弾反応/44_thrown/44_thrown_03.webp,4,damage
+v12_44_thrown,44 投げられ → ダウン,3,sprites/08_被弾反応/44_thrown/44_thrown_04.webp,4,damage
+v12_44_thrown,44 投げられ → ダウン,4,sprites/08_被弾反応/44_thrown/44_thrown_05.webp,4,damage
+v12_44_thrown,44 投げられ → ダウン,5,sprites/08_被弾反応/44_thrown/44_thrown_06.webp,3,damage
+v12_44_thrown,44 投げられ → ダウン,6,sprites/08_被弾反応/44_thrown/44_thrown_07.webp,3,damage
+v12_44_thrown,44 投げられ → ダウン,7,sprites/08_被弾反応/44_thrown/44_thrown_08.webp,10,damage
+v13_10_43_getup,v13 起き上がり,0,sprites/08_被弾反応/起き上がり/10_43_getup_01.webp,10,recovery
+v13_10_43_getup,v13 起き上がり,1,sprites/08_被弾反応/起き上がり/10_43_getup_02.webp,6,recovery
+v13_10_43_getup,v13 起き上がり,2,sprites/08_被弾反応/起き上がり/10_43_getup_03.webp,5,recovery
+v13_10_43_getup,v13 起き上がり,3,sprites/08_被弾反応/起き上がり/10_43_getup_04.webp,5,recovery
+v13_10_43_getup,v13 起き上がり,4,sprites/08_被弾反応/起き上がり/10_43_getup_05.webp,5,recovery
+v13_10_43_getup,v13 起き上がり,5,sprites/08_被弾反応/起き上がり/10_43_getup_06.webp,5,recovery
+v13_10_43_getup,v13 起き上がり,6,sprites/08_被弾反応/起き上がり/10_43_getup_07.webp,7,recovery
+v13_10_43_getup,v13 起き上がり,7,sprites/08_被弾反応/起き上がり/10_43_getup_08.webp,6,recovery
+v13_10_43_getup,v13 起き上がり,8,sprites/08_被弾反応/起き上がり/10_43_getup_09.webp,4,recovery
+v13_10_43_getup,v13 起き上がり,9,sprites/08_被弾反応/起き上がり/10_43_getup_10.webp,4,recovery
+v13_10_43_getup,v13 起き上がり,10,sprites/08_被弾反応/起き上がり/10_43_getup_11.webp,6,recovery
+v13_42_air_hit,v13 空中くらい,0,sprites/08_被弾反応/空中くらい/42_air_hit_01.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,1,sprites/08_被弾反応/空中くらい/42_air_hit_02.webp,3,recovery
+v13_42_air_hit,v13 空中くらい,2,sprites/08_被弾反応/空中くらい/42_air_hit_03.webp,6,recovery
+v13_42_air_hit,v13 空中くらい,3,sprites/08_被弾反応/空中くらい/42_air_hit_04.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,4,sprites/08_被弾反応/空中くらい/42_air_hit_05.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,5,sprites/08_被弾反応/空中くらい/42_air_hit_06.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,6,sprites/08_被弾反応/空中くらい/42_air_hit_07.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,7,sprites/08_被弾反応/空中くらい/42_air_hit_08.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,8,sprites/08_被弾反応/空中くらい/42_air_hit_09.webp,4,recovery
+v13_42_air_hit,v13 空中くらい,9,sprites/08_被弾反応/空中くらい/42_air_hit_10.webp,3,recovery
+v13_42_air_hit,v13 空中くらい,10,sprites/08_被弾反応/空中くらい/42_air_hit_11.webp,9,recovery
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,0,sprites/07_52_MAX/81シーン/52_scene_000.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,1,sprites/07_52_MAX/81シーン/52_scene_001.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,2,sprites/07_52_MAX/81シーン/52_scene_002.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,3,sprites/07_52_MAX/81シーン/52_scene_003.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,4,sprites/07_52_MAX/81シーン/52_scene_004.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,5,sprites/07_52_MAX/81シーン/52_scene_005.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,6,sprites/07_52_MAX/81シーン/52_scene_006.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,7,sprites/07_52_MAX/81シーン/52_scene_007.webp,4,20旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,8,sprites/07_52_MAX/81シーン/52_scene_008.webp,4,頭上掲げ
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,9,sprites/07_52_MAX/81シーン/52_scene_009.webp,4,頭上掲げ
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,10,sprites/07_52_MAX/81シーン/52_scene_010.webp,4,頭上掲げ
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,11,sprites/07_52_MAX/81シーン/52_scene_011.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,12,sprites/07_52_MAX/81シーン/52_scene_012.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,13,sprites/07_52_MAX/81シーン/52_scene_013.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,14,sprites/07_52_MAX/81シーン/52_scene_014.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,15,sprites/07_52_MAX/81シーン/52_scene_015.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,16,sprites/07_52_MAX/81シーン/52_scene_016.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,17,sprites/07_52_MAX/81シーン/52_scene_017.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,18,sprites/07_52_MAX/81シーン/52_scene_018.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,19,sprites/07_52_MAX/81シーン/52_scene_019.webp,4,月上昇
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,20,sprites/07_52_MAX/81シーン/52_scene_020.webp,4,上方維持
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,21,sprites/07_52_MAX/81シーン/52_scene_021.webp,4,上方維持
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,22,sprites/07_52_MAX/81シーン/52_scene_022.webp,4,上方維持
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,23,sprites/07_52_MAX/81シーン/52_scene_023.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,24,sprites/07_52_MAX/81シーン/52_scene_024.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,25,sprites/07_52_MAX/81シーン/52_scene_025.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,26,sprites/07_52_MAX/81シーン/52_scene_026.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,27,sprites/07_52_MAX/81シーン/52_scene_027.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,28,sprites/07_52_MAX/81シーン/52_scene_028.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,29,sprites/07_52_MAX/81シーン/52_scene_029.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,30,sprites/07_52_MAX/81シーン/52_scene_030.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,31,sprites/07_52_MAX/81シーン/52_scene_031.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,32,sprites/07_52_MAX/81シーン/52_scene_032.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,33,sprites/07_52_MAX/81シーン/52_scene_033.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,34,sprites/07_52_MAX/81シーン/52_scene_034.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,35,sprites/07_52_MAX/81シーン/52_scene_035.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,36,sprites/07_52_MAX/81シーン/52_scene_036.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,37,sprites/07_52_MAX/81シーン/52_scene_037.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,38,sprites/07_52_MAX/81シーン/52_scene_038.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,39,sprites/07_52_MAX/81シーン/52_scene_039.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,40,sprites/07_52_MAX/81シーン/52_scene_040.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,41,sprites/07_52_MAX/81シーン/52_scene_041.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,42,sprites/07_52_MAX/81シーン/52_scene_042.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,43,sprites/07_52_MAX/81シーン/52_scene_043.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,44,sprites/07_52_MAX/81シーン/52_scene_044.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,45,sprites/07_52_MAX/81シーン/52_scene_045.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,46,sprites/07_52_MAX/81シーン/52_scene_046.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,47,sprites/07_52_MAX/81シーン/52_scene_047.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,48,sprites/07_52_MAX/81シーン/52_scene_048.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,49,sprites/07_52_MAX/81シーン/52_scene_049.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,50,sprites/07_52_MAX/81シーン/52_scene_050.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,51,sprites/07_52_MAX/81シーン/52_scene_051.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,52,sprites/07_52_MAX/81シーン/52_scene_052.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,53,sprites/07_52_MAX/81シーン/52_scene_053.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,54,sprites/07_52_MAX/81シーン/52_scene_054.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,55,sprites/07_52_MAX/81シーン/52_scene_055.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,56,sprites/07_52_MAX/81シーン/52_scene_056.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,57,sprites/07_52_MAX/81シーン/52_scene_057.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,58,sprites/07_52_MAX/81シーン/52_scene_058.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,59,sprites/07_52_MAX/81シーン/52_scene_059.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,60,sprites/07_52_MAX/81シーン/52_scene_060.webp,4,小三日月降下
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,61,sprites/07_52_MAX/81シーン/52_scene_061.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,62,sprites/07_52_MAX/81シーン/52_scene_062.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,63,sprites/07_52_MAX/81シーン/52_scene_063.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,64,sprites/07_52_MAX/81シーン/52_scene_064.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,65,sprites/07_52_MAX/81シーン/52_scene_065.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,66,sprites/07_52_MAX/81シーン/52_scene_066.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,67,sprites/07_52_MAX/81シーン/52_scene_067.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,68,sprites/07_52_MAX/81シーン/52_scene_068.webp,4,回収
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,69,sprites/07_52_MAX/81シーン/52_scene_069.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,70,sprites/07_52_MAX/81シーン/52_scene_070.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,71,sprites/07_52_MAX/81シーン/52_scene_071.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,72,sprites/07_52_MAX/81シーン/52_scene_072.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,73,sprites/07_52_MAX/81シーン/52_scene_073.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,74,sprites/07_52_MAX/81シーン/52_scene_074.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,75,sprites/07_52_MAX/81シーン/52_scene_075.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,76,sprites/07_52_MAX/81シーン/52_scene_076.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,77,sprites/07_52_MAX/81シーン/52_scene_077.webp,4,26指先旋回
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,78,sprites/07_52_MAX/81シーン/52_scene_078.webp,4,ニュートラル
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,79,sprites/07_52_MAX/81シーン/52_scene_079.webp,4,ニュートラル
+v11_52_max_20_start,52 MAX ジヘルオーバーヘッド【20始動・最新版】,80,sprites/07_52_MAX/81シーン/52_scene_080.webp,4,ニュートラル

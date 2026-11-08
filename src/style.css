@@ -1,0 +1,15 @@
+/* 画面全体の基本の見た目 */
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: #07080f;
+  color: #e8ecff;
+  font-family: system-ui, 'Hiragino Sans', 'Yu Gothic UI', sans-serif;
+}
+#app {
+  height: 100%;
+}
+* {
+  box-sizing: border-box;
+}

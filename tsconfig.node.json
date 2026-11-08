@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "types": ["node"]
+  },
+  "include": ["scripts/**/*.ts", "src/game/**/*.ts", "vite.config.ts"],
+  "exclude": ["src/game/data/loader.ts", "src/game/game.ts", "src/game/index.ts", "src/game/input/devices.ts", "src/game/render/**"]
+}

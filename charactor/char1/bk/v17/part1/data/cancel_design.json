@@ -1,0 +1,33 @@
+{
+  "fps_reference": 60,
+  "normal_cancel_on_hit_or_block": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "18"
+  ],
+  "normal_cancel_targets": [
+    "20",
+    "24",
+    "25"
+  ],
+  "heel_mid_attacks": [
+    "15",
+    "51"
+  ],
+  "heel_cancel_on": [
+    "hit",
+    "block"
+  ],
+  "heel_cancel_after_landing_only": true,
+  "heel_cancel_whiff": false,
+  "followups": {
+    "11_hit": "12_extra_input",
+    "14_hit": "15_extra_input"
+  },
+  "command_51": "forward+K",
+  "guard_51_15": "mid",
+  "special_52": "v11: [20]月回転始動→エリカ地上固定のまま月が上昇巨大化→空中ロック＋三日月雨→[26]指先回転。v10 [12]始動は旧版。",
+  "unresolved": "Do not interpret as playable hitbox state machine; frame windows / priority / damage / meter are TBD"
+}

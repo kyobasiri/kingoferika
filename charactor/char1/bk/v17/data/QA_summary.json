@@ -1,0 +1,44 @@
+{
+  "release": "v16",
+  "source": "MoonErika_Integrated_v15_52改訂.zip",
+  "original_180_source_webp": 180,
+  "obsolete_original_moon_rotation_removed": 16,
+  "raw_latest_candidates": 559,
+  "identical_bytes_retained_for_sequence_names": 49,
+  "final_webp_count": 559,
+  "character_sprites": 447,
+  "effect_sprites": 112,
+  "animation_count": 52,
+  "group_counts": {
+    "effects/20-23_月回転32コマ": 64,
+    "effects/20-23_追加演出": 6,
+    "effects/24_対空": 6,
+    "effects/25_突進": 6,
+    "effects/26-27_超必殺技": 9,
+    "effects/52_MAX": 21,
+    "sprites/00_基本原画": 164,
+    "sprites/01_通常技キャンセル接続": 9,
+    "sprites/02_通常技_連携中段_共通キャンセル": 45,
+    "sprites/03_25_突進": 15,
+    "sprites/04_20-23_ジヘルトリガー": 38,
+    "sprites/05_24_対空": 18,
+    "sprites/06_26-27_超必殺技": 22,
+    "sprites/07_52_MAX": 90,
+    "sprites/08_被弾反応": 46
+  },
+  "note": "758(v14)と886(v15)は旧版・比較版を含む累計。ここでは最新採用素材だけを選定。",
+  "source_versions_excluded": [
+    "v3旧倍率",
+    "v10旧52",
+    "v2旧補間",
+    "v1の旧月16枚",
+    "v12の旧ダウン/空中くらい",
+    "v11参考用の生成歩行シート"
+  ],
+  "limitations": [
+    "一部は元画像の変形・補間で、新規人体作画ではない",
+    "移動・当たり判定・キャンセルは実機未検証",
+    "人物縮尺・接地座標の完全統一は未保証",
+    "[52]空中ロックはゲーム側実装が必要"
+  ]
+}
