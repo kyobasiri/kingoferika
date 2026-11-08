@@ -1,0 +1,5 @@
+node_modules/
+dist/
+WebPConverterApp.exe
+__pycache__/
+*.py[cod]
